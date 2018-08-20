@@ -1,0 +1,28 @@
+{
+  "name": "npmexapm",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "browser-sync": "^2.24.6",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.1"
+    
+  },
+  "keywords": [
+    "npm",
+    "git",
+    "github"
+  ],
+  "author": "MGG",
+  "license": "ISC",
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
